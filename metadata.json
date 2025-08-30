@@ -1,0 +1,5 @@
+{
+  "name": "Web Monitor Browser",
+  "description": "A web browser with advanced developer tools to fetch website content and monitor specific HTML elements for changes, triggering custom API calls on updates.",
+  "requestFramePermissions": []
+}
